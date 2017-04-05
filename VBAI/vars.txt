@@ -1,0 +1,18 @@
+Name	Scope	Type	Value	Shared / Access Type	Buffering	Buffer Size / Timeout
+IMG_CameraAcquisition	Inspection	Image				
+IMG_ChipholderCorner	Inspection	Image				
+IMG_EdgeFinder	Inspection	Image				
+IMG_Probes	Inspection	Image				
+Inspection Variable	Inspection	1D Numeric				
+PosChipCornerNil	Inspection	Point	X=0;Y=0			
+PosGPIOProbe	Inspection	Point	X=0;Y=0			
+PosVsensRightProbe	Inspection	Point	X=0;Y=0			
+SelectInspect	Inspection	Numeric	0			
+X_DistCornerGPO0	System	Numeric	0	True	False	1
+X_DistCornerVsensRight	System	Numeric	1	True	False	1
+XPos_NIL	System	Numeric	2	True	False	1
+XPos_VsensRight	System	Numeric	3	True	False	1
+Y_DistCornerGPO0	System	Numeric	0	True	False	1
+Y_DistCornerVsensRight	System	Numeric	4	True	True	2
+YPos_NIL	System	Numeric	5	True	True	2
+YPos_VsensRight	System	Numeric	6	True	True	2

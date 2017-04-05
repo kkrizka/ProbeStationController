@@ -1,0 +1,13 @@
+++mode1
+++addr2
+++auto1
+++eoi0
+++eos1
+++eot_enable0
+++spoll1
+++mode
+++addr
+++auto
+++eoi
+++eos
+++eot_enable

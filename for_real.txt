@@ -1,0 +1,310 @@
+//==============================================================================
+// HCC Basic Test Procedure Report
+//==============================================================================
+Date/Time: 12/2/2015 1:44 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+Chip Position:      X: 4 Y: 0
+
+Chip Alignment Successful
+Start HCC Test
+
+HCC start up pattern: FAILED -4
+
+HCC start up pattern: FAILED -4
+
+
+HCC GPO check: FAILED -116
+
+HCC Register Initialization: PASSED
+
+VDD check: PASSED
+
+
+
+Hybrid clocks check: FAILED -221
+
+
+
+Fast clocks check: FAILED -124
+
+
+
+
+
+
+
+
+ABC data transmission on left side line 1 check(R1_EN): FAILED 253
+
+
+ABC data transmission on left side line 2 check (L1_EN): FAILED 253
+
+ABC data transmission on right side line 1 check (R2_EN): FAILED 253
+
+
+
+ABC data transmission on right side line 2 check(L2_EN): FAILED 253
+
+Trigger and command transmission check: FAILED -30
+
+TEST_CHIP_COMPLETED: FAILED
+
+
+----------------------------------------------------------------------------------
+Chip Position:      X: 0 Y: 0
+
+Chip Alignment Successful
+
+
+HCC start up pattern: PASSED
+
+HCC start up pattern: PASSED
+
+
+
+
+
+
+HCC GPO check: PASSED
+
+HCC Register Initialization: PASSED
+
+VDD check: PASSED
+
+
+
+
+
+
+
+
+
+Hybrid clocks check: PASSED
+
+
+
+
+Fast clocks check: PASSED
+
+
+
+
+
+
+HCC register read: FAILED -52
+
+
+
+ABC data transmission on left side line 2 check (L1_EN): PASSED
+
+
+ABC data transmission on right s
+
+ABC data transmission on right side line 2 check(L2_EN): FAILED 253
+
+
+Trigger and command transmission check: PASSED
+
+TEST_CHIP_COMPLETED: FAILED
+
+
+----------------------------------------------------------------------------------
+Chip Position:      X: 2 Y: 1
+
+Chip Alignment Successful
+Start HCC Test
+
+HCC start up pattern: PASSED
+
+HCC start up pattern: PASSED
+
+
+
+
+
+
+HCC GPO check: PASSED
+
+HCC Register Initialization: PASSED
+
+VDD check: PASSED
+
+
+
+
+
+
+
+
+
+Hybrid clocks check: PASSED
+
+
+
+
+Fast clocks check: PASSED
+
+
+
+
+
+
+HCC register read: FAILED -52
+
+
+
+
+ABC data transmission on left side line 2 check (L1_EN): PASSED
+
+
+ABC data transmission on right side line 1 check (R2_EN): FAILED 253
+
+
+ABC data transmission on right side line 2 check(L2_EN): FAILED 253
+
+
+
+Trigger and command transmission check: PASSED
+
+TEST_CHIP_COMPLETED: FAILED
+
+
+----------------------------------------------------------------------------------
+Chip Position:      X: 2 Y: 2
+
+Chip Alignment Successful
+Start HCC 
+
+HCC start up pattern: PASSED
+
+HCC start up pattern: PASSED
+
+
+
+
+
+
+HCC GPO check: PASSED
+
+HCC Register Initialization: PASSED
+
+VDD check: PASSED
+
+
+
+
+
+
+
+
+
+
+
+
+Fast clocks ch
+
+
+
+
+
+
+HCC register read: FAILED -52
+
+
+
+
+ABC data transmission on left side line 2 check (L1_EN): PASSED
+
+
+
+ABC data transmission on right side line 1 check (R2_EN): FAILED 253
+
+ABC data transmission on right side line 2 check(L2_EN): FAILED 253
+
+
+
+Trigger and command transmission check: PASSED
+
+TEST_CHIP_COMPLETED: FAILED
+
+
+----------------------------------------------------------------------------------
+Chip Position:      X: 0 Y: 2
+
+Chip Alignment Successful
+Start HCC Test
+
+HCC start up pattern: PASSED
+
+HCC start up pattern: PASSED
+
+
+
+
+
+
+
+HCC GPO check: PASSED
+
+HCC Register Initialization: PASSED
+
+VDD check: PASSED
+
+
+
+
+
+
+Hybrid clocks check: PASSED
+
+
+
+
+
+
+Fast clocks check: PASSED
+
+
+
+
+
+
+
+HCC register read: FAILED -52
+
+
+
+ABC data transmission on left side line 2 check (L1_EN): PASSED
+
+
+ABC data transmission on right side line 1 check (R2_EN)
+
+ABC data transmission on right side line 2 check(L2_EN): FAILED 253
+
+
+
+Trigger and command transmission check: PASSED
+
+TEST_CHIP_COMPLETED: FAILED
+
+
