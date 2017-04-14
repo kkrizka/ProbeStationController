@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{19136918-2063-4EBF-99C1-D880C830C80A}" Type="Ref">/My Computer/VBAI_SharedVariables.lvlib/Probe_C_Y</Property>
