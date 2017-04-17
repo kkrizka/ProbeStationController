@@ -129,6 +129,7 @@
 		</Item>
 		<Item Name="ToplevelProbeStationControl.vi" Type="VI" URL="../ToplevelProbeStationControl.vi"/>
 		<Item Name="ToplevelMicroZedSerialController.vi" Type="VI" URL="../ToplevelMicroZedSerialController.vi"/>
+		<Item Name="ToplevelRunTest.vi" Type="VI" URL="../ToplevelRunTest.vi"/>
 		<Item Name="HCCTesterIcon.ico" Type="Document" URL="../Application/HCCTesterIcon.ico"/>
 		<Item Name="VBAI_SharedVariables.lvlib" Type="Library" URL="../VBAI_SharedVariables.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
